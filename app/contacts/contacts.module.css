@@ -1,0 +1,11 @@
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    padding: 10px 470px;
+}
+.body {
+    background-color: darkgray;
+}
+.text {
+    color: black;
+}
